@@ -66,7 +66,7 @@ const Main = () => {
                         <div className="learn-lower">
                             <a className="learn-block" href="/#">
                                 <div className="block-wrapper">
-                                    <img src="https://mp4-a.udemycdn.com/2020-04-08_09-52-21-a0a8ff43bff1d10a27159039ca59f170/thumb-1.jpg?qkGz1IljG9M0bPN0FVm1yZhzFyosyyy5EWSH9hc9BegomEfq8QhpEMmbitCFtyrB5pnvfzeOpha_hV2GncDC2tMOWI166ggakFZZA_fs2RKz6Q9eU0AjXoQFiibW8gg3MQbfZ2FfIWERvnZ0CWViKG5HJnSwq9bNTg8OMt_LRQ" alt="lecture" />
+                                    <img src="https://img-a.udemycdn.com/course/240x135/1672410_9ff1_5.jpg?t4y0ptjjg53_0cSGABdacbhlmHEtUov4YAOxAkkQYE3vK0PrascYCaTlv9_kZvV9141vpkHOwyMbBNnereQJP7jU1h9yJHjUT_mIPWKeHJ_4ssHpNZollGkekMRBFgy4" alt="lecture" />
                                     <i className="fas fa-play-circle"></i>
                                 </div>
                                 <div className="block-wrapper block-wrapper-pad">
@@ -79,7 +79,7 @@ const Main = () => {
                             </a>
                             <a className="learn-block" href="/#">
                                 <div className="block-wrapper">
-                                    <img src="https://mp4-a.udemycdn.com/2018-10-11_14-30-34-dc6a1da803b9deafd3f2766195e9b9c8/thumb-1.jpg?_X769x53alMovz2BNtlRbzXxD8LjVQJIPLEk628KDoSjwMnjGlP8vQzJNwd60QuHQCr1ZBEII9hlrtdZKfT1fziGMEKHxkDXOdnnapWD-FHzeOB3MMmFDNmG-hnab8lU6O-fEUl6ojdD0eMBha2jozSMAqQYKqZAkeiityttjA" alt="lecture" />
+                                    <img src="https://img-a.udemycdn.com/course/240x135/364426_2991_6.jpg?75BPye5dAC4pBmL5zny3hs5ICHgwuybfx57WyOe21yzogkv-GGE9JsJxM4DHbeevnYmq6kWQ41EmgKr0JdVEdhCTpwCas95zbU5_FIF0GccB6UN0ZySWFJFhDauE-4M" alt="lecture" />
                                     <i className="fas fa-play-circle"></i>
                                 </div>
                                 <div className="block-wrapper block-wrapper-pad">
